@@ -11,5 +11,7 @@ gulpとかbrowserify使ったReact本家のチュートリアル([React入門 - 
 - `vinyl-source-stream`
 
 ## commit history
+- 2015-07-09 : Modified Comment component to correspond to markdown
+- 2015-07-09 : Separated data from component to variable
 - 2015-07-08 : Added Comment, CommentList, CommentForm component
 - 2015-07-08 : first commit(Added CommentBox component)
